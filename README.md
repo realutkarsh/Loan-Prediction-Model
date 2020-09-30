@@ -1,2 +1,2 @@
-# ML Project
-This helps to distinguish to whether provide loan or not.
+# Machine Learning Project
+This helps to decide to whether provide loan to a customer or not.
