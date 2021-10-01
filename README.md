@@ -6,4 +6,4 @@ grant a loan after an intensive process
 of verification and validation. However,
 they still don’t have assurance if the
 applicant is able to repay the loan with
-no difficulties. This model helps to do the same.
+no difficulties. This model helps to predict whether the loan should be assigned to a person or not.
